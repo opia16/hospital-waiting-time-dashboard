@@ -185,11 +185,12 @@ Dashboard interaktif yang dibangun membantu manajemen rumah sakit dalam memahami
 
 ### Dashboard Utama
 
-(Tambahkan screenshot dashboard utama)
+![Dashboard utama](dashboard/utama.jpg)
+
 
 ### Dashboard Investigasi
 
-(Tambahkan screenshot dashboard investigasi)
+![Dashboard Investigasi](dashboard/investigasi.jpg)
 
 ---
 
